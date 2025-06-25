@@ -1,36 +1,79 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# PetLove Care 🐾
 
-## Getting Started
+A modern and responsive website for pet sitting and pet care services.
 
-First, run the development server:
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
+[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
+## 🌟 About the Project
+
+PetLove Care is a platform dedicated to offering premium pet care services. Our mission is to provide love, care, and professional attention to your best friend while you're away.
+
+### Main Services
+
+- 🏠 **Pet Sitting**: Care at the pet's home, maintaining their family routine
+- ✂️ **Grooming**: Hygiene and beauty services with premium products
+- 🎮 **Recreation**: Playful activities and personalized exercises
+- 📸 **Pet Photography**: Photo sessions to eternalize special moments
+- 🍽️ **Special Feeding**: Care with specific diets and medications
+- 🏥 **Veterinary Care**: Accompaniment in consultations and first aid
+
+## 🚀 Technologies Used
+
+- [Next.js](https://nextjs.org/) - React framework for production
+- [TypeScript](https://www.typescriptlang.org/) - JavaScript superset with typing
+- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
+- [Shadcn/ui](https://ui.shadcn.com/) - Reusable UI components
+- [Lucide Icons](https://lucide.dev/) - Icon library
+
+## 🛠️ Installation and Usage
+
+1. Clone the repository:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/marcellevargas/petsitter-web-page
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Install dependencies:
+```bash
+npm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Start the development server:
+```bash
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## Learn More
+## 📱 Features
 
-To learn more about Next.js, take a look at the following resources:
+- Modern and responsive design
+- User-friendly interface
+- Integrated contact form
+- Customer testimonials section
+- Transparent plans and pricing
+- Services gallery
+- Detailed information about each service
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🤝 Developer
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Hi! My name is Marcelle and I create content on the internet about programming.
+If you want to know more about me visit my page:
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/marcellevargas" title="check my github">
+        <img src="https://avatars.githubusercontent.com/u/37669732?v=4" width="100px;" alt="Photo of Marcelle on Github"/><br>
+        <sub>
+          <b>Marcelle Vargas</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
