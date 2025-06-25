@@ -10,7 +10,11 @@ A modern and responsive website for pet sitting and pet care services.
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
-## 🌟 About the Project
+## 🔗 Live Preview
+
+Check out the live website: [PetLove Care](https://petsitter-web-page.vercel.app/)
+
+## 🐾 About the Project
 
 PetLove Care is a platform dedicated to offering premium pet care services. Our mission is to provide love, care, and professional attention to your best friend while you're away.
 
